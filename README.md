@@ -25,6 +25,7 @@ co(function*() {
 ## API
 
 ### read(filePath)
+
     return an instance of `FileReader`
     
 ### class FileReader
