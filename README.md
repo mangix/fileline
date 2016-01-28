@@ -30,4 +30,5 @@ co(function*() {
 ### class FileReader
 
 - next*()
+
 get next line , es6 generator
