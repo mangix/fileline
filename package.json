@@ -1,0 +1,29 @@
+{
+  "name": "fileline",
+  "version": "1.0.1",
+  "description": "read file line by line in es6 sync mode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mangix/filereadline.git"
+  },
+  "engines": {
+    "node": ">=4.2.1"
+  },
+  "keywords": [
+    "file",
+    "linebyline"
+  ],
+  "author": "mangix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mangix/filereadline/issues"
+  },
+  "homepage": "https://github.com/mangix/filereadline",
+  "devDependencies": {
+    "co": "^4.6.0"
+  }
+}
