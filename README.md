@@ -1,5 +1,6 @@
-Read File Line By Line In SYNC Mode
+# Read File Line By Line In SYNC Mode
 
+### example
 
 ```javascript
 
@@ -19,3 +20,14 @@ co(function*() {
 });
 
 ```
+
+
+## API
+
+### read(filePath)
+    return an instance of `FileReader`
+    
+### class FileReader
+
+- next*()
+get next line , es6 generator
