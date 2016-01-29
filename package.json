@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mangix/filereadline.git"
+    "url": "git@github.com:mangix/fileline.git"
   },
   "engines": {
     "node": ">=4.2.1"
